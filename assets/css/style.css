@@ -212,10 +212,6 @@ html, body {
     height: 100%;
 }
 
-#image{
-    margin-bottom: 10em;
-    
-}
 .hero .col-md-6:first-child {
     position: absolute;
     top: 35%;
